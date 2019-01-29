@@ -1,5 +1,5 @@
 # React Calculator
-![](React Calculator Demo.gif)
+![](React-Calculator-Demo.gif)
 
 > How does it work?
 ---
