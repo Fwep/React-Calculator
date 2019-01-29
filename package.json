@@ -1,0 +1,27 @@
+{
+  "name": "react-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator app built using React",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fwep/React-Calculator.git"
+  },
+  "author": "Taran Cacacho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fwep/React-Calculator/issues"
+  },
+  "homepage": "https://github.com/Fwep/React-Calculator#readme",
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
