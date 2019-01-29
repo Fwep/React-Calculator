@@ -2,7 +2,7 @@
   "name": "react-calculator",
   "version": "1.0.0",
   "description": "A simple calculator app built using React",
-  "main": "index.js",
+  "main": "app.jsx",
   "scripts": {
     "webpack": "webpack --watch --mode=development"
   },
